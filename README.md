@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated name banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4B,50:1565C0,100:0D1B4B&height=200&section=header&text=Bhavishya%20Jain&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Builder%20%7C%20LNMIIT%20%E2%80%9927&descSize=18&descAlignY=58&descColor=90CAF9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4B,50:1565C0,100:0D1B4B&height=200&section=header&text=Bhavishya%20Jain&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20SWE%20%7C%20Builder%20%7C%20LNMIIT%20%E2%80%9927&descSize=18&descAlignY=58&descColor=90CAF9&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/Bhavishya011">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=1565C0&center=true&vCenter=true&width=650&lines=Multi-Agent+Systems+%F0%9F%A4%96;Deep+Reinforcement+Learning+%F0%9F%9A%81;Agentic+AI+%E2%86%92+Production+Pipelines+%F0%9F%9A%80;Top+10+%2F+270%2C000%2B+%7C+Google+GenAI+Hackathon+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=1565C0&center=true&vCenter=true&width=650&lines=Multi-Agent+Systems+%F0%9F%A4%96;Deep+Reinforcement+Learning+%F0%9F%9A%81;Agentic+AI+%E2%86%92+Production+Pipelines+%F0%9F%9A%80;Software+Engineer+%7C+DSA+%7C+System+Design+%F0%9F%94%A7;Top+10+%2F+270%2C000%2B+%7C+Google+GenAI+Hackathon+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,35 +30,26 @@
 class BhavishyaJain:
     def __init__(self):
         self.name        = "Bhavishya Jain"
-        self.role        = "AI / ML Engineer"
+        self.role        = "AI / ML Engineer  ·  Software Engineer"
         self.university  = "LNMIIT Jaipur — B.Tech CS (2023–2027)"
         self.focus       = ["Multi-Agent Systems", "Deep Reinforcement Learning", "Agentic AI"]
         self.stack       = ["Python", "TensorFlow", "Google ADK", "Vertex AI", "FastAPI"]
+        self.swe         = ["Data Structures & Algorithms", "System Design", "REST APIs", "Docker"]
         self.achievement = "Top 10 / 270,000+  →  Google GenAI Exchange Hackathon"
 
     def current_mission(self):
         return "Building production-grade AI systems that reason, plan, and act."
+
+    def what_i_love(self):
+        return ["Turning research papers into working code",
+                "Optimising systems end-to-end — from model to latency",
+                "Clean APIs that make complex AI feel simple"]
 
     def beyond_code(self):
         return ["Esports Management Head @ Plinth (LNMIIT Techfest)",
                 "Secured 4 sponsorships incl. Infinix & Jio",
                 "Led 10-member cross-functional team"]
 ```
-
----
-
-## 🏆 Highlight
-
-<div align="center">
-
-| 🥇 Achievement | 📊 Scale | 🛠️ What I Built |
-|:---|:---:|:---|
-| **Top 10 — Google GenAI Exchange Hackathon** | 270,000+ participants | KalpanaAI — deterministic multi-agent system |
-| **0% Collision Rate** | from 100% baseline | DRL UAV navigation with custom DQN |
-| **85% faster convergence** | vs baseline DQN | Reward shaping + Q-value diagnostics |
-| **<₹6 per-request inference** | serverless at scale | Cloud Run + Vertex AI pipeline |
-
-</div>
 
 ---
 
@@ -140,6 +131,14 @@ A 3D UAV navigation policy trained end-to-end using **Deep Q-Networks** in obsta
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Software Engineering
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D1B4B?style=for-the-badge&logo=leetcode&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-1565C0?style=for-the-badge&logo=blueprint&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Probability](https://img.shields.io/badge/Probability_%26_Stats-7B1FA2?style=for-the-badge&logo=mathworks&logoColor=white)
 
 </div>
 
