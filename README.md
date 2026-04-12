@@ -40,15 +40,6 @@ class BhavishyaJain:
     def current_mission(self):
         return "Building production-grade AI systems that reason, plan, and act."
 
-    def what_i_love(self):
-        return ["Turning research papers into working code",
-                "Optimising systems end-to-end — from model to latency",
-                "Clean APIs that make complex AI feel simple"]
-
-    def beyond_code(self):
-        return ["Esports Management Head @ Plinth (LNMIIT Techfest)",
-                "Secured 4 sponsorships incl. Infinix & Jio",
-                "Led 10-member cross-functional team"]
 ```
 
 ---
