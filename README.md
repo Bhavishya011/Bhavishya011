@@ -74,7 +74,78 @@ Vision Agent → [image analysis]   → Narrative Agent → [story generation]
 - Led to a **Top 10** finish among 270,000+ participants globally
 
 ---
+Here's your updated GitHub README project section with PeerGuard added:
+markdown## 🚀 Featured Projects
 
+<div align="center">
+
+### 🤖 KalpanaAI — Autonomous Digital Co-Founder for Artisans
+[![Repo](https://img.shields.io/badge/GitHub-KalpanaAI-0D1B4B?style=for-the-badge&logo=github)](https://github.com/Bhavishya011/KalpanaAI)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-EA4335?style=flat-square&logo=google&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+> **Top 10 / 270,000+ participants — Google GenAI Exchange Hackathon**
+
+A **deterministic multi-agent system** that acts as an AI co-founder for artisans — coordinating vision agents, narrative generation agents, and pricing agents autonomously.
+Vision Agent → [image analysis]   → Narrative Agent → [story generation]
+
+↘
+
+Pricing Agent → [market-aware output]
+
+↗
+
+RAG Layer → [vector index + grounding]
+
+- Architected with **Google ADK + Vertex AI** for deterministic agent orchestration
+- Implemented **RAG with vector indexing** reducing hallucinations measurably
+- Serverless inference on **Cloud Run** — cost optimised to **<₹6 per request**
+- Led to a **Top 10** finish among 270,000+ participants globally
+
+---
+
+### 🔬 PeerGuard — Autonomous Model Validation & Compliance Engine
+[![Repo](https://img.shields.io/badge/GitHub-PeerGuard-0D1B4B?style=for-the-badge&logo=github)](https://github.com/Bhavishya011/PeerGuard)
+[![Demo](https://img.shields.io/badge/Live-Demo-009688?style=for-the-badge&logo=vercel&logoColor=white)](https://huggingface.co/spaces/Bhavishya011/PeerGuard)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama--3_8B-0467DF?style=flat-square&logo=meta&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace_TRL-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Unsloth](https://img.shields.io/badge/Unsloth-7C3AED?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+> **Finalist — Meta PyTorch × HuggingFace Hackathon**
+
+An autonomous model validation agent that replaces unreliable **LLM-as-judge** evaluation with **deterministic, execution-based grading** inside a sandboxed Python environment.
+Llama-3-8B Policy → [generates proof / audit script]
+
+↓
+
+Subprocess Sandbox → [executes code, 5s hard timeout]
+
+↓
+
+Deterministic Grader → [scores 0.0–1.0, no LLM opinion]
+
+↓
+
+Compliance Report → [auditable, cited, traceable]
+
+| Metric | Before | After |
+|:---|:---:|:---:|
+| Governance Accuracy | 40% | 99.99% |
+| Evaluation Method | LLM-as-judge | Execution-based |
+| Generalisation | Task-specific | Zero-shot |
+
+- Full **SFT then RLVR pipeline** on quantized Llama-3-8B via Hugging Face TRL + Unsloth
+- Trained policy using **GRPO** with a capped zero-reward floor to prevent policy collapse
+- **Regex cascading pipeline** to extract mathematical intent from malformed model outputs
+- Zero-shot generalisation — agent autonomously audited unseen patient CSVs without fine-tuning
+
+---
 ### 🚁 Autonomous UAV Navigation using Deep Reinforcement Learning
 [![Repo](https://img.shields.io/badge/GitHub-UAV--DRL-0D1B4B?style=for-the-badge&logo=github)](https://github.com/Bhavishya011/UAV-DRL)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
